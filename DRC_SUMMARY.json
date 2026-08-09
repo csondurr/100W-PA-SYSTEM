@@ -1,0 +1,56 @@
+[
+  {
+    "board": "RADIOVA_PA_0p1_10G_100W_B1.kicad_pcb",
+    "errors": 0,
+    "warnings": 0,
+    "json_report": "C:\\Users\\CEM\\Desktop\\RADIOVA_ENGINEERING_PROTOTYPE_GERBER_R1\\DRC\\RADIOVA_PA_0p1_10G_100W_B1_DRC.json",
+    "text_report": "C:\\Users\\CEM\\Desktop\\RADIOVA_ENGINEERING_PROTOTYPE_GERBER_R1\\DRC\\RADIOVA_PA_0p1_10G_100W_B1_DRC.rpt",
+    "json_returncode": 0,
+    "report_returncode": 0
+  },
+  {
+    "board": "RADIOVA_PA_0p1_10G_100W_B2.kicad_pcb",
+    "errors": 0,
+    "warnings": 0,
+    "json_report": "C:\\Users\\CEM\\Desktop\\RADIOVA_ENGINEERING_PROTOTYPE_GERBER_R1\\DRC\\RADIOVA_PA_0p1_10G_100W_B2_DRC.json",
+    "text_report": "C:\\Users\\CEM\\Desktop\\RADIOVA_ENGINEERING_PROTOTYPE_GERBER_R1\\DRC\\RADIOVA_PA_0p1_10G_100W_B2_DRC.rpt",
+    "json_returncode": 0,
+    "report_returncode": 0
+  },
+  {
+    "board": "RADIOVA_PA_0p1_10G_100W_B3.kicad_pcb",
+    "errors": 0,
+    "warnings": 0,
+    "json_report": "C:\\Users\\CEM\\Desktop\\RADIOVA_ENGINEERING_PROTOTYPE_GERBER_R1\\DRC\\RADIOVA_PA_0p1_10G_100W_B3_DRC.json",
+    "text_report": "C:\\Users\\CEM\\Desktop\\RADIOVA_ENGINEERING_PROTOTYPE_GERBER_R1\\DRC\\RADIOVA_PA_0p1_10G_100W_B3_DRC.rpt",
+    "json_returncode": 0,
+    "report_returncode": 0
+  },
+  {
+    "board": "RADIOVA_PA_0p1_10G_100W_B4.kicad_pcb",
+    "errors": 0,
+    "warnings": 0,
+    "json_report": "C:\\Users\\CEM\\Desktop\\RADIOVA_ENGINEERING_PROTOTYPE_GERBER_R1\\DRC\\RADIOVA_PA_0p1_10G_100W_B4_DRC.json",
+    "text_report": "C:\\Users\\CEM\\Desktop\\RADIOVA_ENGINEERING_PROTOTYPE_GERBER_R1\\DRC\\RADIOVA_PA_0p1_10G_100W_B4_DRC.rpt",
+    "json_returncode": 0,
+    "report_returncode": 0
+  },
+  {
+    "board": "RADIOVA_PA_0p1_10G_100W_B5.kicad_pcb",
+    "errors": 0,
+    "warnings": 0,
+    "json_report": "C:\\Users\\CEM\\Desktop\\RADIOVA_ENGINEERING_PROTOTYPE_GERBER_R1\\DRC\\RADIOVA_PA_0p1_10G_100W_B5_DRC.json",
+    "text_report": "C:\\Users\\CEM\\Desktop\\RADIOVA_ENGINEERING_PROTOTYPE_GERBER_R1\\DRC\\RADIOVA_PA_0p1_10G_100W_B5_DRC.rpt",
+    "json_returncode": 0,
+    "report_returncode": 0
+  },
+  {
+    "board": "RADIOVA_PA_0p1_10G_100W_CTRL.kicad_pcb",
+    "errors": 0,
+    "warnings": 0,
+    "json_report": "C:\\Users\\CEM\\Desktop\\RADIOVA_ENGINEERING_PROTOTYPE_GERBER_R1\\DRC\\RADIOVA_PA_0p1_10G_100W_CTRL_DRC.json",
+    "text_report": "C:\\Users\\CEM\\Desktop\\RADIOVA_ENGINEERING_PROTOTYPE_GERBER_R1\\DRC\\RADIOVA_PA_0p1_10G_100W_CTRL_DRC.rpt",
+    "json_returncode": 0,
+    "report_returncode": 0
+  }
+]
