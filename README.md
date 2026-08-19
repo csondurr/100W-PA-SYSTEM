@@ -618,7 +618,7 @@ If the goal is to archive or review the complete PA hardware release, download *
 
 # 21. Design Rule Check Status
 
-The repository includes `DRC_SUMMARY.json`.
+The repository includes `reports/DRC_SUMMARY.json`.
 
 The recorded KiCad DRC status for the released six-board set is:
 
@@ -814,3 +814,17 @@ RF / Microwave Engineering · Signal Processing · PCB & System Design
 ### Repository note
 
 For anyone reviewing the design for the first time: **start with the Repository Package / Frequency Map at the top of this README, then inspect the individual R2–R7 packages for the specific PA module of interest. R1.zip contains the complete system fabrication release.**
+
+
+## Repository maintenance
+
+**Evidence boundary:** Design and DRC package only. The 100 W-class claims are system targets until demonstrated by calibrated, load-rated, thermally monitored hardware tests.
+
+- [Validation status](docs/VALIDATION.md)
+- [Contribution guide](CONTRIBUTING.md)
+- [Safety and security](SECURITY.md)
+- [Citation metadata](CITATION.cff)
+
+## License
+
+Copyright (c) 2026 Cem Sondur. Distributed under the [MIT License](LICENSE). Component models and other third-party material remain subject to their original licenses.
